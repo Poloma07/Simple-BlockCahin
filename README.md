@@ -1,2 +1,2 @@
-# Simple-BlockCahin
+# Simple-BlockChain
 Simple BlockChain single vesion
